@@ -1,0 +1,1348 @@
+FrameID=0
+0.111585 Seconds spent on this frame
+FrameID=1
+0.114291 Seconds spent on this frame
+FrameID=2
+0.115077 Seconds spent on this frame
+FrameID=3
+0.124808 Seconds spent on this frame
+FrameID=4
+0.12947 Seconds spent on this frame
+FrameID=5
+0.143867 Seconds spent on this frame
+FrameID=6
+0.135145 Seconds spent on this frame
+FrameID=7
+0.14013 Seconds spent on this frame
+FrameID=8
+0.147744 Seconds spent on this frame
+FrameID=9
+0.143246 Seconds spent on this frame
+FrameID=10
+0.154042 Seconds spent on this frame
+FrameID=11
+0.163117 Seconds spent on this frame
+FrameID=12
+0.150818 Seconds spent on this frame
+FrameID=13
+0.151369 Seconds spent on this frame
+FrameID=14
+0.170558 Seconds spent on this frame
+FrameID=15
+0.155085 Seconds spent on this frame
+FrameID=16
+0.171093 Seconds spent on this frame
+FrameID=17
+0.177754 Seconds spent on this frame
+FrameID=18
+0.173241 Seconds spent on this frame
+FrameID=19
+0.161072 Seconds spent on this frame
+FrameID=20
+0.1428 Seconds spent on this frame
+FrameID=21
+0.168623 Seconds spent on this frame
+FrameID=22
+0.158065 Seconds spent on this frame
+FrameID=23
+0.157342 Seconds spent on this frame
+FrameID=24
+0.164207 Seconds spent on this frame
+FrameID=25
+0.16355 Seconds spent on this frame
+FrameID=26
+0.156485 Seconds spent on this frame
+FrameID=27
+0.157644 Seconds spent on this frame
+FrameID=28
+0.156569 Seconds spent on this frame
+FrameID=29
+0.155533 Seconds spent on this frame
+FrameID=30
+0.155103 Seconds spent on this frame
+FrameID=31
+0.167016 Seconds spent on this frame
+FrameID=32
+0.159455 Seconds spent on this frame
+FrameID=33
+0.163171 Seconds spent on this frame
+FrameID=34
+0.168188 Seconds spent on this frame
+FrameID=35
+0.162979 Seconds spent on this frame
+FrameID=36
+0.159061 Seconds spent on this frame
+FrameID=37
+0.160098 Seconds spent on this frame
+FrameID=38
+0.163095 Seconds spent on this frame
+FrameID=39
+0.159108 Seconds spent on this frame
+FrameID=40
+0.153317 Seconds spent on this frame
+FrameID=41
+0.160374 Seconds spent on this frame
+FrameID=42
+0.150208 Seconds spent on this frame
+FrameID=43
+0.149598 Seconds spent on this frame
+FrameID=44
+0.152681 Seconds spent on this frame
+FrameID=45
+0.150849 Seconds spent on this frame
+FrameID=46
+0.154245 Seconds spent on this frame
+FrameID=47
+0.158381 Seconds spent on this frame
+FrameID=48
+0.152976 Seconds spent on this frame
+FrameID=49
+0.150897 Seconds spent on this frame
+FrameID=50
+0.15 Seconds spent on this frame
+FrameID=51
+0.152511 Seconds spent on this frame
+FrameID=52
+0.154819 Seconds spent on this frame
+FrameID=53
+0.156 Seconds spent on this frame
+FrameID=54
+0.162014 Seconds spent on this frame
+FrameID=55
+0.151643 Seconds spent on this frame
+FrameID=56
+0.149402 Seconds spent on this frame
+FrameID=57
+0.152498 Seconds spent on this frame
+FrameID=58
+0.152281 Seconds spent on this frame
+FrameID=59
+0.154972 Seconds spent on this frame
+FrameID=60
+0.154161 Seconds spent on this frame
+FrameID=61
+0.157669 Seconds spent on this frame
+FrameID=62
+0.155845 Seconds spent on this frame
+FrameID=63
+0.150635 Seconds spent on this frame
+FrameID=64
+0.156445 Seconds spent on this frame
+FrameID=65
+0.148671 Seconds spent on this frame
+FrameID=66
+0.150417 Seconds spent on this frame
+FrameID=67
+0.151228 Seconds spent on this frame
+FrameID=68
+0.151092 Seconds spent on this frame
+FrameID=69
+0.151487 Seconds spent on this frame
+FrameID=70
+0.150208 Seconds spent on this frame
+FrameID=71
+0.1523 Seconds spent on this frame
+FrameID=72
+0.151993 Seconds spent on this frame
+FrameID=73
+0.148905 Seconds spent on this frame
+FrameID=74
+0.151058 Seconds spent on this frame
+FrameID=75
+0.148622 Seconds spent on this frame
+FrameID=76
+0.148032 Seconds spent on this frame
+FrameID=77
+0.148899 Seconds spent on this frame
+FrameID=78
+0.15234 Seconds spent on this frame
+FrameID=79
+0.153363 Seconds spent on this frame
+FrameID=80
+0.155858 Seconds spent on this frame
+FrameID=81
+0.160063 Seconds spent on this frame
+FrameID=82
+0.151073 Seconds spent on this frame
+FrameID=83
+0.147047 Seconds spent on this frame
+FrameID=84
+0.149822 Seconds spent on this frame
+FrameID=85
+0.154884 Seconds spent on this frame
+FrameID=86
+0.14759 Seconds spent on this frame
+FrameID=87
+0.149855 Seconds spent on this frame
+FrameID=88
+0.150058 Seconds spent on this frame
+FrameID=89
+0.143285 Seconds spent on this frame
+FrameID=90
+0.14693 Seconds spent on this frame
+FrameID=91
+0.144861 Seconds spent on this frame
+FrameID=92
+0.148798 Seconds spent on this frame
+FrameID=93
+0.152615 Seconds spent on this frame
+FrameID=94
+0.153143 Seconds spent on this frame
+FrameID=95
+0.14836 Seconds spent on this frame
+FrameID=96
+0.151439 Seconds spent on this frame
+FrameID=97
+0.149585 Seconds spent on this frame
+FrameID=98
+0.154464 Seconds spent on this frame
+FrameID=99
+0.152704 Seconds spent on this frame
+FrameID=100
+0.150743 Seconds spent on this frame
+FrameID=101
+0.150255 Seconds spent on this frame
+FrameID=102
+0.151911 Seconds spent on this frame
+FrameID=103
+0.154947 Seconds spent on this frame
+FrameID=104
+0.149837 Seconds spent on this frame
+FrameID=105
+0.150133 Seconds spent on this frame
+FrameID=106
+0.153826 Seconds spent on this frame
+FrameID=107
+0.151213 Seconds spent on this frame
+FrameID=108
+0.14935 Seconds spent on this frame
+FrameID=109
+0.151777 Seconds spent on this frame
+FrameID=110
+0.156277 Seconds spent on this frame
+FrameID=111
+0.153959 Seconds spent on this frame
+FrameID=112
+0.157089 Seconds spent on this frame
+FrameID=113
+0.149733 Seconds spent on this frame
+FrameID=114
+0.153434 Seconds spent on this frame
+FrameID=115
+0.154407 Seconds spent on this frame
+FrameID=116
+0.154461 Seconds spent on this frame
+FrameID=117
+0.15016 Seconds spent on this frame
+FrameID=118
+0.15591 Seconds spent on this frame
+FrameID=119
+0.151134 Seconds spent on this frame
+FrameID=120
+0.157203 Seconds spent on this frame
+FrameID=121
+0.164141 Seconds spent on this frame
+FrameID=122
+0.202543 Seconds spent on this frame
+FrameID=123
+0.164652 Seconds spent on this frame
+FrameID=124
+0.158676 Seconds spent on this frame
+FrameID=125
+0.148065 Seconds spent on this frame
+FrameID=126
+0.156237 Seconds spent on this frame
+FrameID=127
+0.152521 Seconds spent on this frame
+FrameID=128
+0.155131 Seconds spent on this frame
+FrameID=129
+0.162016 Seconds spent on this frame
+FrameID=130
+0.162839 Seconds spent on this frame
+FrameID=131
+0.154176 Seconds spent on this frame
+FrameID=132
+0.153687 Seconds spent on this frame
+FrameID=133
+0.155865 Seconds spent on this frame
+FrameID=134
+0.167155 Seconds spent on this frame
+FrameID=135
+0.163003 Seconds spent on this frame
+FrameID=136
+0.158974 Seconds spent on this frame
+FrameID=137
+0.165166 Seconds spent on this frame
+FrameID=138
+0.157052 Seconds spent on this frame
+FrameID=139
+0.153375 Seconds spent on this frame
+FrameID=140
+0.163404 Seconds spent on this frame
+FrameID=141
+0.162808 Seconds spent on this frame
+FrameID=142
+0.157013 Seconds spent on this frame
+FrameID=143
+0.164465 Seconds spent on this frame
+FrameID=144
+0.162914 Seconds spent on this frame
+FrameID=145
+0.162776 Seconds spent on this frame
+FrameID=146
+0.162569 Seconds spent on this frame
+FrameID=147
+0.152989 Seconds spent on this frame
+FrameID=148
+0.16724 Seconds spent on this frame
+FrameID=149
+0.169046 Seconds spent on this frame
+FrameID=150
+0.149095 Seconds spent on this frame
+FrameID=151
+0.154767 Seconds spent on this frame
+FrameID=152
+0.158394 Seconds spent on this frame
+FrameID=153
+0.16164 Seconds spent on this frame
+FrameID=154
+0.139285 Seconds spent on this frame
+FrameID=155
+0.149805 Seconds spent on this frame
+FrameID=156
+0.155317 Seconds spent on this frame
+FrameID=157
+0.16064 Seconds spent on this frame
+FrameID=158
+0.13763 Seconds spent on this frame
+FrameID=159
+0.159756 Seconds spent on this frame
+FrameID=160
+0.136515 Seconds spent on this frame
+FrameID=161
+0.138318 Seconds spent on this frame
+FrameID=162
+0.156575 Seconds spent on this frame
+FrameID=163
+0.146961 Seconds spent on this frame
+FrameID=164
+0.149684 Seconds spent on this frame
+FrameID=165
+0.159355 Seconds spent on this frame
+FrameID=166
+0.157511 Seconds spent on this frame
+FrameID=167
+0.13417 Seconds spent on this frame
+FrameID=168
+0.154044 Seconds spent on this frame
+FrameID=169
+0.136332 Seconds spent on this frame
+FrameID=170
+0.147775 Seconds spent on this frame
+FrameID=171
+0.156728 Seconds spent on this frame
+FrameID=172
+0.149212 Seconds spent on this frame
+FrameID=173
+0.160518 Seconds spent on this frame
+FrameID=174
+0.153835 Seconds spent on this frame
+FrameID=175
+0.160312 Seconds spent on this frame
+FrameID=176
+0.1657 Seconds spent on this frame
+FrameID=177
+0.162774 Seconds spent on this frame
+FrameID=178
+0.166309 Seconds spent on this frame
+FrameID=179
+0.167471 Seconds spent on this frame
+FrameID=180
+0.163532 Seconds spent on this frame
+FrameID=181
+0.164869 Seconds spent on this frame
+FrameID=182
+0.159084 Seconds spent on this frame
+FrameID=183
+0.165693 Seconds spent on this frame
+FrameID=184
+0.17075 Seconds spent on this frame
+FrameID=185
+0.17422 Seconds spent on this frame
+FrameID=186
+0.167731 Seconds spent on this frame
+FrameID=187
+0.174761 Seconds spent on this frame
+FrameID=188
+0.169386 Seconds spent on this frame
+FrameID=189
+0.180004 Seconds spent on this frame
+FrameID=190
+0.165555 Seconds spent on this frame
+FrameID=191
+0.173289 Seconds spent on this frame
+FrameID=192
+0.163596 Seconds spent on this frame
+FrameID=193
+0.154536 Seconds spent on this frame
+FrameID=194
+0.174956 Seconds spent on this frame
+FrameID=195
+0.182568 Seconds spent on this frame
+FrameID=196
+0.172352 Seconds spent on this frame
+FrameID=197
+0.170857 Seconds spent on this frame
+FrameID=198
+0.171614 Seconds spent on this frame
+FrameID=199
+0.172234 Seconds spent on this frame
+FrameID=200
+0.166151 Seconds spent on this frame
+FrameID=201
+0.17469 Seconds spent on this frame
+FrameID=202
+0.16567 Seconds spent on this frame
+FrameID=203
+0.169295 Seconds spent on this frame
+FrameID=204
+0.171563 Seconds spent on this frame
+FrameID=205
+0.176438 Seconds spent on this frame
+FrameID=206
+0.167059 Seconds spent on this frame
+FrameID=207
+0.173818 Seconds spent on this frame
+FrameID=208
+0.170399 Seconds spent on this frame
+FrameID=209
+0.173305 Seconds spent on this frame
+FrameID=210
+0.165645 Seconds spent on this frame
+FrameID=211
+0.165896 Seconds spent on this frame
+FrameID=212
+0.170707 Seconds spent on this frame
+FrameID=213
+0.178385 Seconds spent on this frame
+FrameID=214
+0.164232 Seconds spent on this frame
+FrameID=215
+0.168453 Seconds spent on this frame
+FrameID=216
+0.169562 Seconds spent on this frame
+FrameID=217
+0.17282 Seconds spent on this frame
+FrameID=218
+0.16893 Seconds spent on this frame
+FrameID=219
+0.171342 Seconds spent on this frame
+FrameID=220
+0.168779 Seconds spent on this frame
+FrameID=221
+0.177652 Seconds spent on this frame
+FrameID=222
+0.168206 Seconds spent on this frame
+FrameID=223
+0.179297 Seconds spent on this frame
+FrameID=224
+0.17211 Seconds spent on this frame
+FrameID=225
+0.172848 Seconds spent on this frame
+FrameID=226
+0.17262 Seconds spent on this frame
+FrameID=227
+0.17701 Seconds spent on this frame
+FrameID=228
+0.165723 Seconds spent on this frame
+FrameID=229
+0.179768 Seconds spent on this frame
+FrameID=230
+0.178548 Seconds spent on this frame
+FrameID=231
+0.181228 Seconds spent on this frame
+FrameID=232
+0.172044 Seconds spent on this frame
+FrameID=233
+0.169651 Seconds spent on this frame
+FrameID=234
+0.165638 Seconds spent on this frame
+FrameID=235
+0.171941 Seconds spent on this frame
+FrameID=236
+0.166396 Seconds spent on this frame
+FrameID=237
+0.169033 Seconds spent on this frame
+FrameID=238
+0.164368 Seconds spent on this frame
+FrameID=239
+0.176957 Seconds spent on this frame
+FrameID=240
+0.168857 Seconds spent on this frame
+FrameID=241
+0.16681 Seconds spent on this frame
+FrameID=242
+0.164768 Seconds spent on this frame
+FrameID=243
+0.167781 Seconds spent on this frame
+FrameID=244
+0.168929 Seconds spent on this frame
+FrameID=245
+0.173787 Seconds spent on this frame
+FrameID=246
+0.164582 Seconds spent on this frame
+FrameID=247
+0.16549 Seconds spent on this frame
+FrameID=248
+0.162645 Seconds spent on this frame
+FrameID=249
+0.166352 Seconds spent on this frame
+FrameID=250
+0.165367 Seconds spent on this frame
+FrameID=251
+0.158633 Seconds spent on this frame
+FrameID=252
+0.164934 Seconds spent on this frame
+FrameID=253
+0.167241 Seconds spent on this frame
+FrameID=254
+0.164922 Seconds spent on this frame
+FrameID=255
+0.159739 Seconds spent on this frame
+FrameID=256
+0.163824 Seconds spent on this frame
+FrameID=257
+0.173373 Seconds spent on this frame
+FrameID=258
+0.163144 Seconds spent on this frame
+FrameID=259
+0.156038 Seconds spent on this frame
+FrameID=260
+0.157326 Seconds spent on this frame
+FrameID=261
+0.158819 Seconds spent on this frame
+FrameID=262
+0.179855 Seconds spent on this frame
+FrameID=263
+0.169158 Seconds spent on this frame
+FrameID=264
+0.164888 Seconds spent on this frame
+FrameID=265
+0.160591 Seconds spent on this frame
+FrameID=266
+0.166278 Seconds spent on this frame
+FrameID=267
+0.156512 Seconds spent on this frame
+FrameID=268
+0.168103 Seconds spent on this frame
+FrameID=269
+0.161436 Seconds spent on this frame
+FrameID=270
+0.173771 Seconds spent on this frame
+FrameID=271
+0.174558 Seconds spent on this frame
+FrameID=272
+0.173673 Seconds spent on this frame
+FrameID=273
+0.165962 Seconds spent on this frame
+FrameID=274
+0.164482 Seconds spent on this frame
+FrameID=275
+0.164041 Seconds spent on this frame
+FrameID=276
+0.163387 Seconds spent on this frame
+FrameID=277
+0.161402 Seconds spent on this frame
+FrameID=278
+0.168784 Seconds spent on this frame
+FrameID=279
+0.163142 Seconds spent on this frame
+FrameID=280
+0.161227 Seconds spent on this frame
+FrameID=281
+0.16397 Seconds spent on this frame
+FrameID=282
+0.167389 Seconds spent on this frame
+FrameID=283
+0.164538 Seconds spent on this frame
+FrameID=284
+0.164344 Seconds spent on this frame
+FrameID=285
+0.17764 Seconds spent on this frame
+FrameID=286
+0.165008 Seconds spent on this frame
+FrameID=287
+0.168775 Seconds spent on this frame
+FrameID=288
+0.163368 Seconds spent on this frame
+FrameID=289
+0.176197 Seconds spent on this frame
+FrameID=290
+0.166595 Seconds spent on this frame
+FrameID=291
+0.166875 Seconds spent on this frame
+FrameID=292
+0.167347 Seconds spent on this frame
+FrameID=293
+0.161435 Seconds spent on this frame
+FrameID=294
+0.166217 Seconds spent on this frame
+FrameID=295
+0.169087 Seconds spent on this frame
+FrameID=296
+0.167012 Seconds spent on this frame
+FrameID=297
+0.170819 Seconds spent on this frame
+FrameID=298
+0.166945 Seconds spent on this frame
+FrameID=299
+0.164702 Seconds spent on this frame
+FrameID=300
+0.16245 Seconds spent on this frame
+FrameID=301
+0.168416 Seconds spent on this frame
+FrameID=302
+0.164497 Seconds spent on this frame
+FrameID=303
+0.164806 Seconds spent on this frame
+FrameID=304
+0.166323 Seconds spent on this frame
+FrameID=305
+0.167571 Seconds spent on this frame
+FrameID=306
+0.167147 Seconds spent on this frame
+FrameID=307
+0.168815 Seconds spent on this frame
+FrameID=308
+0.164299 Seconds spent on this frame
+FrameID=309
+0.167584 Seconds spent on this frame
+FrameID=310
+0.168458 Seconds spent on this frame
+FrameID=311
+0.169407 Seconds spent on this frame
+FrameID=312
+0.173839 Seconds spent on this frame
+FrameID=313
+0.176804 Seconds spent on this frame
+FrameID=314
+0.164834 Seconds spent on this frame
+FrameID=315
+0.164853 Seconds spent on this frame
+FrameID=316
+0.163765 Seconds spent on this frame
+FrameID=317
+0.163034 Seconds spent on this frame
+FrameID=318
+0.16288 Seconds spent on this frame
+FrameID=319
+0.165465 Seconds spent on this frame
+FrameID=320
+0.162149 Seconds spent on this frame
+FrameID=321
+0.163705 Seconds spent on this frame
+FrameID=322
+0.162222 Seconds spent on this frame
+FrameID=323
+0.16358 Seconds spent on this frame
+FrameID=324
+0.169968 Seconds spent on this frame
+FrameID=325
+0.162161 Seconds spent on this frame
+FrameID=326
+0.15655 Seconds spent on this frame
+FrameID=327
+0.163332 Seconds spent on this frame
+FrameID=328
+0.168782 Seconds spent on this frame
+FrameID=329
+0.166156 Seconds spent on this frame
+FrameID=330
+0.162501 Seconds spent on this frame
+FrameID=331
+0.16448 Seconds spent on this frame
+FrameID=332
+0.16956 Seconds spent on this frame
+FrameID=333
+0.162313 Seconds spent on this frame
+FrameID=334
+0.169661 Seconds spent on this frame
+FrameID=335
+0.168555 Seconds spent on this frame
+FrameID=336
+0.162987 Seconds spent on this frame
+FrameID=337
+0.163639 Seconds spent on this frame
+FrameID=338
+0.163283 Seconds spent on this frame
+FrameID=339
+0.165392 Seconds spent on this frame
+FrameID=340
+0.163156 Seconds spent on this frame
+FrameID=341
+0.164976 Seconds spent on this frame
+FrameID=342
+0.161821 Seconds spent on this frame
+FrameID=343
+0.160261 Seconds spent on this frame
+FrameID=344
+0.177444 Seconds spent on this frame
+FrameID=345
+0.169825 Seconds spent on this frame
+FrameID=346
+0.163705 Seconds spent on this frame
+FrameID=347
+0.173935 Seconds spent on this frame
+FrameID=348
+0.167001 Seconds spent on this frame
+FrameID=349
+0.163792 Seconds spent on this frame
+FrameID=350
+0.170026 Seconds spent on this frame
+FrameID=351
+0.174322 Seconds spent on this frame
+FrameID=352
+0.17862 Seconds spent on this frame
+FrameID=353
+0.180002 Seconds spent on this frame
+FrameID=354
+0.176308 Seconds spent on this frame
+FrameID=355
+0.167455 Seconds spent on this frame
+FrameID=356
+0.168156 Seconds spent on this frame
+FrameID=357
+0.160712 Seconds spent on this frame
+FrameID=358
+0.164121 Seconds spent on this frame
+FrameID=359
+0.175665 Seconds spent on this frame
+FrameID=360
+0.172503 Seconds spent on this frame
+FrameID=361
+0.179309 Seconds spent on this frame
+FrameID=362
+0.165991 Seconds spent on this frame
+FrameID=363
+0.172583 Seconds spent on this frame
+FrameID=364
+0.167821 Seconds spent on this frame
+FrameID=365
+0.167431 Seconds spent on this frame
+FrameID=366
+0.168522 Seconds spent on this frame
+FrameID=367
+0.171133 Seconds spent on this frame
+FrameID=368
+0.166928 Seconds spent on this frame
+FrameID=369
+0.169034 Seconds spent on this frame
+FrameID=370
+0.17125 Seconds spent on this frame
+FrameID=371
+0.163555 Seconds spent on this frame
+FrameID=372
+0.17168 Seconds spent on this frame
+FrameID=373
+0.162941 Seconds spent on this frame
+FrameID=374
+0.16664 Seconds spent on this frame
+FrameID=375
+0.168581 Seconds spent on this frame
+FrameID=376
+0.167843 Seconds spent on this frame
+FrameID=377
+0.167969 Seconds spent on this frame
+FrameID=378
+0.164906 Seconds spent on this frame
+FrameID=379
+0.165083 Seconds spent on this frame
+FrameID=380
+0.165255 Seconds spent on this frame
+FrameID=381
+0.166931 Seconds spent on this frame
+FrameID=382
+0.173752 Seconds spent on this frame
+FrameID=383
+0.167653 Seconds spent on this frame
+FrameID=384
+0.170444 Seconds spent on this frame
+FrameID=385
+0.172398 Seconds spent on this frame
+FrameID=386
+0.172821 Seconds spent on this frame
+FrameID=387
+0.16954 Seconds spent on this frame
+FrameID=388
+0.170394 Seconds spent on this frame
+FrameID=389
+0.167013 Seconds spent on this frame
+FrameID=390
+0.171651 Seconds spent on this frame
+FrameID=391
+0.170729 Seconds spent on this frame
+FrameID=392
+0.16841 Seconds spent on this frame
+FrameID=393
+0.171296 Seconds spent on this frame
+FrameID=394
+0.168793 Seconds spent on this frame
+FrameID=395
+0.166234 Seconds spent on this frame
+FrameID=396
+0.16742 Seconds spent on this frame
+FrameID=397
+0.169146 Seconds spent on this frame
+FrameID=398
+0.166899 Seconds spent on this frame
+FrameID=399
+0.172097 Seconds spent on this frame
+FrameID=400
+0.17441 Seconds spent on this frame
+FrameID=401
+0.168894 Seconds spent on this frame
+FrameID=402
+0.174697 Seconds spent on this frame
+FrameID=403
+0.164325 Seconds spent on this frame
+FrameID=404
+0.168192 Seconds spent on this frame
+FrameID=405
+0.169034 Seconds spent on this frame
+FrameID=406
+0.170755 Seconds spent on this frame
+FrameID=407
+0.170476 Seconds spent on this frame
+FrameID=408
+0.169707 Seconds spent on this frame
+FrameID=409
+0.170047 Seconds spent on this frame
+FrameID=410
+0.165486 Seconds spent on this frame
+FrameID=411
+0.170384 Seconds spent on this frame
+FrameID=412
+0.163851 Seconds spent on this frame
+FrameID=413
+0.163508 Seconds spent on this frame
+FrameID=414
+0.166128 Seconds spent on this frame
+FrameID=415
+0.161112 Seconds spent on this frame
+FrameID=416
+0.167315 Seconds spent on this frame
+FrameID=417
+0.162847 Seconds spent on this frame
+FrameID=418
+0.158908 Seconds spent on this frame
+FrameID=419
+0.161546 Seconds spent on this frame
+FrameID=420
+0.165347 Seconds spent on this frame
+FrameID=421
+0.160858 Seconds spent on this frame
+FrameID=422
+0.164093 Seconds spent on this frame
+FrameID=423
+0.159408 Seconds spent on this frame
+FrameID=424
+0.161011 Seconds spent on this frame
+FrameID=425
+0.159163 Seconds spent on this frame
+FrameID=426
+0.159762 Seconds spent on this frame
+FrameID=427
+0.161307 Seconds spent on this frame
+FrameID=428
+0.160391 Seconds spent on this frame
+FrameID=429
+0.163056 Seconds spent on this frame
+FrameID=430
+0.163856 Seconds spent on this frame
+FrameID=431
+0.167821 Seconds spent on this frame
+FrameID=432
+0.166481 Seconds spent on this frame
+FrameID=433
+0.159867 Seconds spent on this frame
+FrameID=434
+0.165484 Seconds spent on this frame
+FrameID=435
+0.164619 Seconds spent on this frame
+FrameID=436
+0.172478 Seconds spent on this frame
+FrameID=437
+0.164524 Seconds spent on this frame
+FrameID=438
+0.168218 Seconds spent on this frame
+FrameID=439
+0.166694 Seconds spent on this frame
+FrameID=440
+0.165772 Seconds spent on this frame
+FrameID=441
+0.165017 Seconds spent on this frame
+FrameID=442
+0.169659 Seconds spent on this frame
+FrameID=443
+0.164202 Seconds spent on this frame
+FrameID=444
+0.164924 Seconds spent on this frame
+FrameID=445
+0.168253 Seconds spent on this frame
+FrameID=446
+0.173258 Seconds spent on this frame
+FrameID=447
+0.168776 Seconds spent on this frame
+FrameID=448
+0.172487 Seconds spent on this frame
+FrameID=449
+0.163163 Seconds spent on this frame
+FrameID=450
+0.164131 Seconds spent on this frame
+FrameID=451
+0.167459 Seconds spent on this frame
+FrameID=452
+0.175125 Seconds spent on this frame
+FrameID=453
+0.168981 Seconds spent on this frame
+FrameID=454
+0.164816 Seconds spent on this frame
+FrameID=455
+0.165241 Seconds spent on this frame
+FrameID=456
+0.172384 Seconds spent on this frame
+FrameID=457
+0.17127 Seconds spent on this frame
+FrameID=458
+0.160324 Seconds spent on this frame
+FrameID=459
+0.162901 Seconds spent on this frame
+FrameID=460
+0.166017 Seconds spent on this frame
+FrameID=461
+0.165533 Seconds spent on this frame
+FrameID=462
+0.166463 Seconds spent on this frame
+FrameID=463
+0.164241 Seconds spent on this frame
+FrameID=464
+0.165356 Seconds spent on this frame
+FrameID=465
+0.161253 Seconds spent on this frame
+FrameID=466
+0.168642 Seconds spent on this frame
+FrameID=467
+0.17128 Seconds spent on this frame
+FrameID=468
+0.166207 Seconds spent on this frame
+FrameID=469
+0.167079 Seconds spent on this frame
+FrameID=470
+0.163763 Seconds spent on this frame
+FrameID=471
+0.161676 Seconds spent on this frame
+FrameID=472
+0.168506 Seconds spent on this frame
+FrameID=473
+0.167364 Seconds spent on this frame
+FrameID=474
+0.164254 Seconds spent on this frame
+FrameID=475
+0.16587 Seconds spent on this frame
+FrameID=476
+0.170907 Seconds spent on this frame
+FrameID=477
+0.164344 Seconds spent on this frame
+FrameID=478
+0.170665 Seconds spent on this frame
+FrameID=479
+0.171075 Seconds spent on this frame
+FrameID=480
+0.167856 Seconds spent on this frame
+FrameID=481
+0.172596 Seconds spent on this frame
+FrameID=482
+0.166984 Seconds spent on this frame
+FrameID=483
+0.164836 Seconds spent on this frame
+FrameID=484
+0.16574 Seconds spent on this frame
+FrameID=485
+0.175393 Seconds spent on this frame
+FrameID=486
+0.165388 Seconds spent on this frame
+FrameID=487
+0.174964 Seconds spent on this frame
+FrameID=488
+0.176372 Seconds spent on this frame
+FrameID=489
+0.172888 Seconds spent on this frame
+FrameID=490
+0.16918 Seconds spent on this frame
+FrameID=491
+0.172709 Seconds spent on this frame
+FrameID=492
+0.172002 Seconds spent on this frame
+FrameID=493
+0.167021 Seconds spent on this frame
+FrameID=494
+0.172986 Seconds spent on this frame
+FrameID=495
+0.175623 Seconds spent on this frame
+FrameID=496
+0.172951 Seconds spent on this frame
+FrameID=497
+0.168827 Seconds spent on this frame
+FrameID=498
+0.169858 Seconds spent on this frame
+FrameID=499
+0.168178 Seconds spent on this frame
+FrameID=500
+0.166577 Seconds spent on this frame
+FrameID=501
+0.168541 Seconds spent on this frame
+FrameID=502
+0.175063 Seconds spent on this frame
+FrameID=503
+0.170974 Seconds spent on this frame
+FrameID=504
+0.170731 Seconds spent on this frame
+FrameID=505
+0.162582 Seconds spent on this frame
+FrameID=506
+0.161051 Seconds spent on this frame
+FrameID=507
+0.163848 Seconds spent on this frame
+FrameID=508
+0.171579 Seconds spent on this frame
+FrameID=509
+0.165755 Seconds spent on this frame
+FrameID=510
+0.165344 Seconds spent on this frame
+FrameID=511
+0.168386 Seconds spent on this frame
+FrameID=512
+0.173772 Seconds spent on this frame
+FrameID=513
+0.178661 Seconds spent on this frame
+FrameID=514
+0.163015 Seconds spent on this frame
+FrameID=515
+0.170143 Seconds spent on this frame
+FrameID=516
+0.164904 Seconds spent on this frame
+FrameID=517
+0.164817 Seconds spent on this frame
+FrameID=518
+0.169939 Seconds spent on this frame
+FrameID=519
+0.163041 Seconds spent on this frame
+FrameID=520
+0.167642 Seconds spent on this frame
+FrameID=521
+0.18068 Seconds spent on this frame
+FrameID=522
+0.165755 Seconds spent on this frame
+FrameID=523
+0.173022 Seconds spent on this frame
+FrameID=524
+0.173502 Seconds spent on this frame
+FrameID=525
+0.172947 Seconds spent on this frame
+FrameID=526
+0.168702 Seconds spent on this frame
+FrameID=527
+0.174007 Seconds spent on this frame
+FrameID=528
+0.164259 Seconds spent on this frame
+FrameID=529
+0.165183 Seconds spent on this frame
+FrameID=530
+0.169873 Seconds spent on this frame
+FrameID=531
+0.163777 Seconds spent on this frame
+FrameID=532
+0.168387 Seconds spent on this frame
+FrameID=533
+0.167279 Seconds spent on this frame
+FrameID=534
+0.168866 Seconds spent on this frame
+FrameID=535
+0.166998 Seconds spent on this frame
+FrameID=536
+0.169825 Seconds spent on this frame
+FrameID=537
+0.16736 Seconds spent on this frame
+FrameID=538
+0.165101 Seconds spent on this frame
+FrameID=539
+0.167145 Seconds spent on this frame
+FrameID=540
+0.168578 Seconds spent on this frame
+FrameID=541
+0.16854 Seconds spent on this frame
+FrameID=542
+0.170989 Seconds spent on this frame
+FrameID=543
+0.168421 Seconds spent on this frame
+FrameID=544
+0.171338 Seconds spent on this frame
+FrameID=545
+0.174241 Seconds spent on this frame
+FrameID=546
+0.183576 Seconds spent on this frame
+FrameID=547
+0.169505 Seconds spent on this frame
+FrameID=548
+0.176029 Seconds spent on this frame
+FrameID=549
+0.175269 Seconds spent on this frame
+FrameID=550
+0.175712 Seconds spent on this frame
+FrameID=551
+0.183421 Seconds spent on this frame
+FrameID=552
+0.180914 Seconds spent on this frame
+FrameID=553
+0.175256 Seconds spent on this frame
+FrameID=554
+0.178113 Seconds spent on this frame
+FrameID=555
+0.165414 Seconds spent on this frame
+FrameID=556
+0.169848 Seconds spent on this frame
+FrameID=557
+0.175125 Seconds spent on this frame
+FrameID=558
+0.176108 Seconds spent on this frame
+FrameID=559
+0.172228 Seconds spent on this frame
+FrameID=560
+0.181053 Seconds spent on this frame
+FrameID=561
+0.17365 Seconds spent on this frame
+FrameID=562
+0.178652 Seconds spent on this frame
+FrameID=563
+0.17311 Seconds spent on this frame
+FrameID=564
+0.176018 Seconds spent on this frame
+FrameID=565
+0.193289 Seconds spent on this frame
+FrameID=566
+0.173357 Seconds spent on this frame
+FrameID=567
+0.180362 Seconds spent on this frame
+FrameID=568
+0.187606 Seconds spent on this frame
+FrameID=569
+0.186322 Seconds spent on this frame
+FrameID=570
+0.185284 Seconds spent on this frame
+FrameID=571
+0.179736 Seconds spent on this frame
+FrameID=572
+0.179688 Seconds spent on this frame
+FrameID=573
+0.178195 Seconds spent on this frame
+FrameID=574
+0.183627 Seconds spent on this frame
+FrameID=575
+0.189111 Seconds spent on this frame
+FrameID=576
+0.175179 Seconds spent on this frame
+FrameID=577
+0.181376 Seconds spent on this frame
+FrameID=578
+0.187675 Seconds spent on this frame
+FrameID=579
+0.176214 Seconds spent on this frame
+FrameID=580
+0.179391 Seconds spent on this frame
+FrameID=581
+0.17474 Seconds spent on this frame
+FrameID=582
+0.1813 Seconds spent on this frame
+FrameID=583
+0.169164 Seconds spent on this frame
+FrameID=584
+0.176861 Seconds spent on this frame
+FrameID=585
+0.170404 Seconds spent on this frame
+FrameID=586
+0.185878 Seconds spent on this frame
+FrameID=587
+0.18126 Seconds spent on this frame
+FrameID=588
+0.181907 Seconds spent on this frame
+FrameID=589
+0.170658 Seconds spent on this frame
+FrameID=590
+0.179763 Seconds spent on this frame
+FrameID=591
+0.173872 Seconds spent on this frame
+FrameID=592
+0.187329 Seconds spent on this frame
+FrameID=593
+0.1705 Seconds spent on this frame
+FrameID=594
+0.16997 Seconds spent on this frame
+FrameID=595
+0.169509 Seconds spent on this frame
+FrameID=596
+0.175205 Seconds spent on this frame
+FrameID=597
+0.172448 Seconds spent on this frame
+FrameID=598
+0.169227 Seconds spent on this frame
+FrameID=599
+0.165567 Seconds spent on this frame
+FrameID=600
+0.172019 Seconds spent on this frame
+FrameID=601
+0.177879 Seconds spent on this frame
+FrameID=602
+0.178209 Seconds spent on this frame
+FrameID=603
+0.170138 Seconds spent on this frame
+FrameID=604
+0.181239 Seconds spent on this frame
+FrameID=605
+0.187076 Seconds spent on this frame
+FrameID=606
+0.176172 Seconds spent on this frame
+FrameID=607
+0.187305 Seconds spent on this frame
+FrameID=608
+0.182351 Seconds spent on this frame
+FrameID=609
+0.180579 Seconds spent on this frame
+FrameID=610
+0.148245 Seconds spent on this frame
+FrameID=611
+0.133862 Seconds spent on this frame
+FrameID=612
+0.16423 Seconds spent on this frame
+FrameID=613
+0.148016 Seconds spent on this frame
+FrameID=614
+0.132328 Seconds spent on this frame
+FrameID=615
+0.127627 Seconds spent on this frame
+FrameID=616
+0.166275 Seconds spent on this frame
+FrameID=617
+0.135393 Seconds spent on this frame
+FrameID=618
+0.140646 Seconds spent on this frame
+FrameID=619
+0.16835 Seconds spent on this frame
+FrameID=620
+0.161059 Seconds spent on this frame
+FrameID=621
+0.164267 Seconds spent on this frame
+FrameID=622
+0.171454 Seconds spent on this frame
+FrameID=623
+0.161929 Seconds spent on this frame
+FrameID=624
+0.153038 Seconds spent on this frame
+FrameID=625
+0.169163 Seconds spent on this frame
+FrameID=626
+0.165094 Seconds spent on this frame
+FrameID=627
+0.179391 Seconds spent on this frame
+FrameID=628
+0.17429 Seconds spent on this frame
+FrameID=629
+0.175852 Seconds spent on this frame
+FrameID=630
+0.184415 Seconds spent on this frame
+FrameID=631
+0.178913 Seconds spent on this frame
+FrameID=632
+0.184867 Seconds spent on this frame
+FrameID=633
+0.173027 Seconds spent on this frame
+FrameID=634
+0.179168 Seconds spent on this frame
+FrameID=635
+0.177386 Seconds spent on this frame
+FrameID=636
+0.187253 Seconds spent on this frame
+FrameID=637
+0.174534 Seconds spent on this frame
+FrameID=638
+0.185601 Seconds spent on this frame
+FrameID=639
+0.194417 Seconds spent on this frame
+FrameID=640
+0.198445 Seconds spent on this frame
+FrameID=641
+0.187629 Seconds spent on this frame
+FrameID=642
+0.197506 Seconds spent on this frame
+FrameID=643
+0.190152 Seconds spent on this frame
+FrameID=644
+0.184756 Seconds spent on this frame
+FrameID=645
+0.193736 Seconds spent on this frame
+FrameID=646
+0.192742 Seconds spent on this frame
+FrameID=647
+0.185017 Seconds spent on this frame
+FrameID=648
+0.197235 Seconds spent on this frame
+FrameID=649
+0.1891 Seconds spent on this frame
+FrameID=650
+0.167407 Seconds spent on this frame
+FrameID=651
+0.189559 Seconds spent on this frame
+FrameID=652
+0.186823 Seconds spent on this frame
+FrameID=653
+0.155451 Seconds spent on this frame
+FrameID=654
+0.181523 Seconds spent on this frame
+FrameID=655
+0.173688 Seconds spent on this frame
+FrameID=656
+0.170895 Seconds spent on this frame
+FrameID=657
+0.14902 Seconds spent on this frame
+FrameID=658
+0.152352 Seconds spent on this frame
+FrameID=659
+0.162628 Seconds spent on this frame
+FrameID=660
+0.155386 Seconds spent on this frame
+FrameID=661
+0.16214 Seconds spent on this frame
+FrameID=662
+0.134254 Seconds spent on this frame
+FrameID=663
+0.128113 Seconds spent on this frame
+FrameID=664
+0.128016 Seconds spent on this frame
+FrameID=665
+0.16598 Seconds spent on this frame
+FrameID=666
+0.0946709 Seconds spent on this frame
+FrameID=667
+0.151238 Seconds spent on this frame
+FrameID=668
+0.159207 Seconds spent on this frame
+FrameID=669
+0.163761 Seconds spent on this frame
+FrameID=670
+0.14867 Seconds spent on this frame
+FrameID=671
+0.155828 Seconds spent on this frame
+FrameID=672
+0.117592 Seconds spent on this frame
+FrameID=673
+0.140035 Seconds spent on this frame
